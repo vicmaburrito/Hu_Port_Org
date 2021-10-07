@@ -1,7 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = "http://localhost:1313/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Portafolio'
 theme = "paper"
+
 
 [params]
   disableHLJS = true                         # don't use highlight.js
