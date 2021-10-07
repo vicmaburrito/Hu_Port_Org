@@ -1,0 +1,26 @@
+baseURL = "http://localhost:1313/"
+languageCode = 'en-us'
+title = 'My Portafolio'
+theme = "paper"
+
+
+[params]
+  disableHLJS = true                         # don't use highlight.js
+  twitter = '@ManuelAldaraca'                # twitter.com/YOUR_TWITTER_ID
+  github = 'vicmaburrito'                  # github.com/YOUR_GITHUB_ID
+  instagram = 'manuelaldaraca'            # instagram.com/YOUR_INSTAGRAM_ID
+
+[[params.social]]
+  name = "Github"
+  icon = "github"
+  url = "https://github.com/vicmaburrito"
+
+[[params.social]]
+  name = "Instagram"
+  icon = "instagram"
+  url = "https://www.instagram.com/manuelaldaraca/"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://twitter.com/manuelaldaraca"
