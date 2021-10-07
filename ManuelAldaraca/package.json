@@ -1,0 +1,17 @@
+{
+  "name": "manuelaldaraca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "curl -L -O https://github.com/gohugoio/hugo/releases/download/v0.58.3/hugo_0.58.3_Linux-64bit.tar.gz && tar -xzf hugo_0.58.3_Linux-64bit.tar.gz",
+    "build": "./hugo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hugo": "^0.0.3"
+  }
+}
